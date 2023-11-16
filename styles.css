@@ -92,16 +92,17 @@ img {
   display: flex;
   font-size: 25px;
   color: black;
-  height: 500px;
+  font-size: 28px;
   width: 700px;
-  width: 500px;
   margin: 0 auto;
+  padding-top: 105px;
 }
 
 .p-live-push-link_div2_down {
   display: flex;
-  width: 500px;
+  width: 700px;
   margin: 0 auto;
+  font-size: 20;
 }
 
 .blue {
@@ -113,4 +114,8 @@ img {
 .logo_start {
   width: 50px;
   height: 40px;
+}
+
+.animated_pictures{
+  
 }
