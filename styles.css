@@ -116,6 +116,20 @@ img {
   height: 40px;
 }
 
-.animated_pictures{
+.box_pics{
+  display: inline-flex;
 
+}
+
+.yellowBox{
+  color: yellow;
+  width: 631px;
+  height: 631px;
+  border: black solid 2px;
+}
+
+.picLeft{
+  width: 631px;
+  height: 631px;
+  border: black solid 2px;
 }
